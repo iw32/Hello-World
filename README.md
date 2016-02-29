@@ -1,5 +1,5 @@
 # Hello-World
-Just for laughs.
+This is just for laughs.
 
 My name is Ivan. 
 
